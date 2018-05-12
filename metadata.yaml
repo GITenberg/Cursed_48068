@@ -1,4 +1,8 @@
 _repo: Cursed_48068
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48068-h/images/cover.jpg
 creator:
   author:
     agent_name: England, George Allan
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2478
     wikipedia: http://en.wikipedia.org/wiki/George_Allan_England
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48068#Cursed
 gutenberg_issued: '2015-01-25'
 gutenberg_type: Text
 identifiers:
